@@ -1,7 +1,7 @@
 # flower-girl
 Stop the monsters picking your favourite flowers!
 
-Windows only!
+Windows 64bit only!
 
 ## To Play
 Simply download flowerGirl.zip and double click Flower-Girl.exe
